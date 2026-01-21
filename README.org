@@ -4,6 +4,6 @@ Common Lisp bindings to libresect
 
 |---------+-----------------------------------------------|
 | source  | git:https://github.com/borodust/cl-resect.git |
-| commit  | 81f2e2b                                       |
+| commit  | e85b3e0                                       |
 | systems | cl-resect                                     |
 |---------+-----------------------------------------------|
